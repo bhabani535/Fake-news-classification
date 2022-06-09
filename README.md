@@ -1,6 +1,7 @@
 # Fake-news-classification
+![image](https://user-images.githubusercontent.com/70597780/172857334-1145b0e2-314a-485e-a6e4-f4108a50d10d.png)
+
 Fake -News Detection Project 
-![image](https://user-images.githubusercontent.com/70597780/172857138-9c0d734c-428d-4411-b5f8-ed563177b164.png)
 
 
 The authenticity of Information has become a longstanding issue affecting businesses and society, both for printed and digital media. On social networks, the reach and effects of information spread occur at such a fast pace and so amplified that distorted, inaccurate, or false information acquires a tremendous potential to cause real-world impacts, within minutes, for millions of users. Recently, several public concerns about this problem and some approaches to mitigate the problem were expressed. 
